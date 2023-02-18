@@ -1,0 +1,23 @@
+.input-box {
+
+    padding: 1em;
+    margin: 1em 0;
+    border-radius: .2em;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    gap: 1rem;
+    box-shadow: 0px 1px 4px 4px #0000001f;
+}
+
+.input-box input {
+    background-color: transparent;
+    border: 0;
+    outline: 0;
+    font-size: 1em;
+    width: 90%;
+}
+
+.input-box input::placeholder {
+    color: hsl(236, 9%, 61%);
+}

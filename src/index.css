@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+body {
+  height: 100vh;
+  background-color: hsl(235, 21%, 11%);
+  color: hsl(236, 33%, 92%);
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  cursor: pointer;
+
+}

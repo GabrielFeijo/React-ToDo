@@ -1,0 +1,26 @@
+.title,
+.desc {
+    max-width: 400px;
+}
+
+.desc {
+    text-align: justify;
+    color: hsl(236, 9%, 61%);
+    font-size: 1.1em;
+    margin-bottom: 0;
+}
+
+.input {
+    background: transparent;
+    border: 0;
+    outline: 0;
+    margin: 1em 0;
+    text-align: center;
+    font-size: 1.1em;
+    color: hsl(236, 33%, 92%);
+    border-bottom: 1px solid hsl(236, 33%, 92%);
+}
+
+.input::placeholder {
+    color: hsl(236, 33%, 92%);
+}

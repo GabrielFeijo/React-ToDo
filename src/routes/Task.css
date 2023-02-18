@@ -1,0 +1,89 @@
+.App {
+    height: 100vh;
+}
+
+.bg-image {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40vh;
+}
+
+.container {
+    width: 450px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.tasks {
+    max-height: 55vh;
+    overflow: auto;
+}
+
+
+/* Track */
+.dark::-webkit-scrollbar-track {
+    background-color: hsl(235, 24%, 19%);
+}
+
+/* Track */
+.light::-webkit-scrollbar-track {
+    background-color: white;
+}
+
+/* Handle */
+.dark::-webkit-scrollbar-thumb {
+    background-color: white;
+}
+
+/* Handle */
+.light::-webkit-scrollbar-thumb {
+    background-color: hsl(235, 24%, 19%);
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    font-weight: 600;
+    letter-spacing: .2em;
+}
+
+header svg {
+    font-size: 1.5em;
+}
+
+main {
+    box-shadow: 0px 1px 4px 4px #0000001f;
+}
+
+footer {
+    text-align: center;
+    margin-top: 2em;
+}
+
+.center {
+    text-align: center;
+    padding: 1em;
+    border-radius: .1em;
+    border-bottom: 1px solid hsl(233, 14%, 35%);
+}
+
+@media screen and (max-width: 500px) {
+    .container {
+        width: 90%;
+    }
+}
+
+@media screen and (max-height: 500px) {
+    .container {
+        top: 0;
+        transform: translate(-50%, 0);
+    }
+}
