@@ -8,4 +8,7 @@
 
 Resultado:
 
-* ![Projeto React](https://cdn.discordapp.com/attachments/786006828466044931/1076550551522771036/homeTask.png) ![Projeto React](https://cdn.discordapp.com/attachments/786006828466044931/1076550857589526629/code.png) ![Projeto React](https://cdn.discordapp.com/attachments/786006828466044931/1076551066067402803/todo.png)  ![Projeto React](https://cdn.discordapp.com/attachments/786006828466044931/1076551213820162108/todo-light.png) 
+* ![Projeto React](https://cdn.discordapp.com/attachments/786006828466044931/1076550551522771036/homeTask.png) 
+* ![Projeto React](https://cdn.discordapp.com/attachments/786006828466044931/1076550857589526629/code.png)
+*  ![Projeto React](https://cdn.discordapp.com/attachments/786006828466044931/1076551066067402803/todo.png)  
+*  ![Projeto React](https://cdn.discordapp.com/attachments/786006828466044931/1076551213820162108/todo-light.png) 
