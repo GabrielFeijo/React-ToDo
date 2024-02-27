@@ -14,7 +14,7 @@
 
 Resultado:
 
-* ![Projeto React](https://cdn.discordapp.com/attachments/786006828466044931/1076552699815923712/homeTask.png) 
-* ![Projeto React](https://cdn.discordapp.com/attachments/786006828466044931/1076550857589526629/code.png)
-*  ![Projeto React](https://cdn.discordapp.com/attachments/786006828466044931/1076551066067402803/todo.png)  
-*  ![Projeto React](https://cdn.discordapp.com/attachments/786006828466044931/1076551213820162108/todo-light.png) 
+* ![Projeto React](https://i.imgur.com/klIA8YV.png) 
+* ![Projeto React](https://i.imgur.com/tcIh89S.png)
+*  ![Projeto React](https://i.imgur.com/e8iqWjG.png)  
+*  ![Projeto React](https://i.imgur.com/V4kDH8W.png) 
